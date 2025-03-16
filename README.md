@@ -36,41 +36,48 @@ I love **solving complex problems** and **building elegant, high-performance app
 
 ### 🌍 <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-showing-americas_1f30e.png" width="20px"> Projects
 
-🚀 **[Small URL - A URL Shortener](https://github.com/dhanushakkari/smallurl-spring)**  
-🔗 **Technologies**: Spring Boot, MongoDB, Redis, Zookeeper  
-📌 **Description**: A scalable, fast, and efficient URL shortener with Base62 encoding and caching.
+<div align="center">
 
-🛠 **[Improvements for 3D Model Repository (OSM)](https://github.com/dhanushakkari/improvements-3dmr-osm)**  
-🔗 **Technologies**: Python, Open Source Contributions  
-📌 **Description**: Enhancing and modernizing the 3D Model Repository with glTF support.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dhanushakkari/smallurl-spring">
+        <img src="https://source.unsplash.com/300x300/?technology,url" width="100%" alt="Small URL">
+        <br>
+        <b>Small URL - A URL Shortener</b>
+      </a>
+      <p>Spring Boot, MongoDB, Redis, Zookeeper</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dhanushakkari/improvements-3dmr-osm">
+        <img src="https://source.unsplash.com/300x300/?3d,modeling" width="100%" alt="3D Model Repository">
+        <br>
+        <b>Improvements for 3D Model Repository</b>
+      </a>
+      <p>Python, Open Source Contributions</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dhanushakkari/django-faq-multi-lang">
+        <img src="https://source.unsplash.com/300x300/?faq,technology" width="100%" alt="FAQ Multi-Language">
+        <br>
+        <b>Django FAQ Multi-Language</b>
+      </a>
+      <p>Django, JavaScript, Google Translate API</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dhanushakkari/e-commerce-webapp">
+        <img src="https://source.unsplash.com/300x300/?shopping,ecommerce" width="100%" alt="E-Commerce Web App">
+        <br>
+        <b>E-Commerce Web Application</b>
+      </a>
+      <p>Django, React, PostgreSQL</p>
+    </td>
+  </tr>
+</table>
 
-💡 **[Django FAQ Multi-Language](https://github.com/dhanushakkari/django-faq-multi-lang)**  
-🔗 **Technologies**: Django, JavaScript, Google Translate API  
-📌 **Description**: A multilingual FAQ system with CKEditor, translation, and a smooth UI.
-
-🛒 **[E-Commerce Web Application](https://github.com/dhanushakkari/e-commerce-webapp)**  
-🔗 **Technologies**: Django, React, PostgreSQL  
-📌 **Description**: A powerful and responsive e-commerce platform with modern UI and admin panel.
-
-🤖 **[3DOF Robot Simulation](https://github.com/dhanushakkari/3Dof-Robot-in-ROS)**  
-🔗 **Technologies**: Python, Robotics, Simulation  
-📌 **Description**: A robotic simulation project for a 3-degree-of-freedom robotic arm.
-
-📆 **[Dynamic Calendar App](https://github.com/dhanushakkari/locale-Dynamic-CalendarApp)**  
-🔗 **Technologies**: Dart, Flutter  
-📌 **Description**: A multi-locale dynamic calendar app with custom event scheduling.
-
-🌦 **[Weather Monitoring System](https://github.com/dhanushakkari/weather-monitoring-system)**  
-🔗 **Technologies**: JavaScript, Node.js, OpenWeather API  
-📌 **Description**: A visually appealing weather monitoring app with real-time updates.
-
-⚙️ **[Rule Engine (AST)](https://github.com/dhanushakkari/rule-engine-AST)**  
-🔗 **Technologies**: JavaScript, Logic Processing  
-📌 **Description**: A rule-based system for evaluating conditions using an Abstract Syntax Tree.
-
-☀️ **[Solar Power Management (Android)](https://github.com/dhanushakkari/solar-power-management-andoid)**  
-🔗 **Technologies**: Android, Java, IoT  
-📌 **Description**: A smart solar power management app for tracking and optimizing energy usage.
+</div>
 
 ---
 
